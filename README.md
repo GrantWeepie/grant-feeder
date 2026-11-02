@@ -52,9 +52,11 @@ These are the problems I know about. There may be others.
 - **No back-rail models yet.** All three variants are for the front rail only.
 - **Removing a loaded feeder can spill parts.** Once the components are exposed, it is hard to take a feeder off the machine without spilling them.
 
-## Contributing
+## Project Status
 
-Issues, fixes, new tape-thickness variants, and back-rail versions are welcome. If you get these working well (or find new problems), please open an issue or pull request so others can benefit.
+I'm sharing this design as-is and **don't plan to maintain it**. I won't be reviewing issues or pull requests.
+
+You're encouraged to fork the repository and take it wherever you like, whether that means fixing the known issues, adding new tape thicknesses, or making back-rail versions. The license lets you do all of this without asking permission.
 
 ## License
 
